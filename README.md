@@ -130,9 +130,7 @@ ecs-cicd-pipeline/
 **Madhusudhan Anand**  
 AWS Certified Solutions Architect | DevOps Practitioner  
 [LinkedIn](www.linkedin.com/in/
-madhusudhananand
-Vanity URL name
-) • [GitHub](https://github.com/madhusudhan-anand)
+madhusudhananand) • [GitHub](https://github.com/madhusudhan-anand)
 
 ---
 
