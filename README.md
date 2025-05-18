@@ -114,6 +114,8 @@ ecs-cicd-pipeline/
 
 > http://ecs-st-loadb-gzeyqj69y1cu-1489915268.us-east-1.elb.amazonaws.com/
 
+> Check Screenshots for result
+
 ---
 
 ## 🧠 Lessons Learned
